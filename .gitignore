@@ -1,4 +1,4 @@
 .git/
-autopop_env/
-virtual_env/
-**pycache**
+env/
+**__pycache__**
+**virtual_env**

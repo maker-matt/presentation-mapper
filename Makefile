@@ -1,6 +1,6 @@
 # Makefile
 
 mapping:
-	@python create_mapping.py 
+	@python scripts/create_mapping.py 
 presentation:
-	@python execute_mapping.py 
+	@python scripts/execute_mapping.py 
